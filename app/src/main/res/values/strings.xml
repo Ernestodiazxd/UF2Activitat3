@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UF2Activitat3</string>
+    <string name="title_activity_localitzador">Map</string>
+    <string name="title_activity_auxili">Map</string>
+    <string name="ajuda">PREM AQUI PER SABER LES TEVES CORDENADES</string>
+</resources>
