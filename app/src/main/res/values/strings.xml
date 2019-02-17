@@ -6,5 +6,6 @@
     <string name="logo">LOCATOR</string>
     <string name="Localitzador">Localitza el teu cotxe</string>
     <string name="Auxili">Sap les teves coordenades</string>
+    <string name="Marcador">Afegir marca</string>
 
 </resources>

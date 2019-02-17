@@ -17,10 +17,10 @@
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        android:layout_marginBottom="25dp"
+        android:layout_alignParentBottom="true"
         android:layout_marginStart="27dp"
+        android:layout_marginBottom="25dp"
         android:onClick="setMarker"
-        android:text="Button" />
+        android:text="@string/Marcador" />
 </RelativeLayout>
